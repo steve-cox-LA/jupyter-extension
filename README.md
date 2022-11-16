@@ -4,6 +4,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/binder-examples/jupyter-extension/HEAD?urlpath=lab/tree/index.ipynb) (Jupyter Lab)
 
+revised
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/steve-cox-LA/jupyter-extension/master?labpath=index.ipynb)
 
 This example demonstrates how to enable Jupyter extensions with Binder.We currently only cover one example
 in this repo. Be aware that some are idiosyncratic in how they're enabled.
